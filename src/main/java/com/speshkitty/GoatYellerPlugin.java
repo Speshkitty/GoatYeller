@@ -38,7 +38,8 @@ public class GoatYellerPlugin extends Plugin
 			"So a goat walks into a pit and the pitman says-",
 			"Long Live The Goat",
 			"FILL THE GOAT HOLE",
-			"HAIL TO THE HOLE"
+			"HAIL TO THE HOLE",
+			"Yippie-ki-yay, mother goat"
 	};
 
 	@Override
